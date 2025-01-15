@@ -10,7 +10,9 @@ This repository contains the architecture design and supporting files for creati
 - **Monitoring and Auditing**: AWS CloudTrail and CloudWatch for continuous monitoring and log storage.
 - **Business Continuity**: Fault tolerance and disaster recovery mechanisms using Multi-AZ RDS and Autoscaling.
 
-## Architecture Diagram
+## Architecture Diagram: 
+
+https://github.com/shivamsinha2000/Network_Infrastructure_Design-Healthcare_Industry/blob/1a42100657a861140973352ca7e80f9ef51966db/Architecture%20Diagram.svg
 
 
 ## AWS Services Used
