@@ -11,7 +11,7 @@ This repository contains the architecture design and supporting files for creati
 - **Business Continuity**: Fault tolerance and disaster recovery mechanisms using Multi-AZ RDS and Autoscaling.
 
 ## Architecture Diagram: 
-
+![image](https://github.com/user-attachments/assets/502b7f37-f577-438f-a6a3-ee3ae105395f)
 https://github.com/shivamsinha2000/Network_Infrastructure_Design-Healthcare_Industry/blob/1a42100657a861140973352ca7e80f9ef51966db/Architecture%20Diagram.svg
 
 
@@ -23,3 +23,5 @@ https://github.com/shivamsinha2000/Network_Infrastructure_Design-Healthcare_Indu
 - **Monitoring**: CloudWatch, CloudTrail
 - **Storage**: Amazon S3
 - **Others**: AWS Well-Architected Tool
+
+![Uploading image.png…]()
